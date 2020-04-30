@@ -1,4 +1,8 @@
 # Hellow
 sEMG data preprocess and feature extraction 
-# preprocess includes IIR filtering.
-# feature extraction includes time dormain processing and frequence dormain processing.
+# preprocess 
+1. fundamental filtering
+2. IIR filtering.
+# feature extraction 
+1. time dormain processing 
+2. frequence dormain processing.
